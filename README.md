@@ -1,1 +1,2 @@
-# implement_of_conv-_nn-_models
+# implement_of_conv_nn_models
+This is some implantation that I learned from Andrew ng 
